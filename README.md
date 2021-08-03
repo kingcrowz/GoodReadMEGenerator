@@ -12,7 +12,7 @@ This project is designed to help save time when making a readme for your project
 * [Contribution Guidelines](#Contribution-Guidelines)
 * [Test Instructions](#Test-Instructions)
 * [License](#License)
-* [Github](#Github)
+* [Questions](#Questions)
 
       
 # Installation Guidelines
