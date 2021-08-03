@@ -68,9 +68,9 @@ ${response.description}
 * [Contribution Guidelines](#Contribution-Guidelines)
 * [Test Instructions](#Test-Instructions)`
 if(response.license != 'None'){
-answers += `* [License](#License)`;
+answers += `\n* [License](#License)`;
 }
-answers += `* [Github](#Github)
+answers += `\n* [Github](#Github)
 
       
 # Installation Guidelines
