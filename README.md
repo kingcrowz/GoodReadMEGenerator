@@ -28,6 +28,7 @@ Contributions closed, project complete
       
 # Test Instructions
 Follow along with the video at https://drive.google.com/file/d/1kLWgi2He5tY8hLqip6QMkL6sMvz3Oe23/view if other questions arise.
+It is highly recommended to watch the video in 1080p or better.
       
 
 
