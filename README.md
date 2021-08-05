@@ -28,7 +28,12 @@ Contributions closed, project complete
 
       
 # Test Instructions
-Follow along with the video at https://drive.google.com/file/d/1kLWgi2He5tY8hLqip6QMkL6sMvz3Oe23/view if other questions arise.
+
+
+https://user-images.githubusercontent.com/83981829/128377593-8162fc13-4990-45f6-9d0a-3298db30acb8.mp4
+
+
+Follow along with the video at https://drive.google.com/file/d/1kLWgi2He5tY8hLqip6QMkL6sMvz3Oe23/view if it doesnt work in the readme.
 It is highly recommended to watch the video in 1080p or better.
       
 
