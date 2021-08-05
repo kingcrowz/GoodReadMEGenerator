@@ -43,7 +43,7 @@ It is highly recommended to watch the video in 1080p or better.
 # Questions
 
 # Email
-Any questions? Please email me at[kingcrowz@comcast.net](mailto:kingcrowz@comcast.net)
+Any questions? Please email me at [kingcrowz@comcast.net](mailto:kingcrowz@comcast.net)
 
 # Github
 If you'd like to see more of my work, please visit [kingcrowz](https://github.com/kingcrowz)
